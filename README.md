@@ -4,10 +4,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-- 👋 Hi, My name is Predrag Tomic.
-- 👀 I’m Blockchain and full-stack web developer.
+- 👋 Hi, My name is Alex Petrovic.
+- 👀 I’m a Blockchain and full-stack web developer.
 - 📫 And I'm also ChatGPt expert.
-- 🌱 I have experience with blockchain technologies, Front-end and Back-end.
+- 🌱 I have rich experience with blockchain technologies, Front-end and Back-end.
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
